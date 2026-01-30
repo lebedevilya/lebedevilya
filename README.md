@@ -2,9 +2,9 @@
 
 ### Senior Full-Stack Engineer (Ruby on Rails) & Technical Founder
 
-I specialize in building scalable SaaS products at the intersection of **Ruby on Rails**. With 7+ years of experience, I bridge the gap between complex backend architecture and product-focused engineering.
+I specialize in building scalable SaaS products with **Ruby on Rails**. With 7+ years of experience, I bridge the gap between complex backend architecture and product-focused engineering.
 
-Currently exploring **LLM orchestration**, **RAG pipelines**, and **Web3 infrastructure**.
+I love to work & experiment with **LLM orchestration**, **RAG pipelines**, and **Web3 infrastructure**.
 
 ---
 
@@ -33,7 +33,7 @@ Currently exploring **LLM orchestration**, **RAG pipelines**, and **Web3 infrast
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[nodes.garden](https://backdropbuild.com/builds/nodesgarden)** | Web3/AI Node-as-a-Service platform. Orchestrated **25k+ nodes** via API. Scaled to 16k+ users. Backed by Techstars Web3. | Rails, PostgreSQL, GoodJob, Docker, Fly.io |
+| **[nodes.garden](https://backdropbuild.com/builds/nodesgarden)** | Web3/AI Node-as-a-Service platform. Orchestrated **25k+ nodes** via API. Scaled to 16k+ users. **Backed by Techstars Web3.** | Rails, PostgreSQL, GoodJob, Docker, Fly.io |
 | **[customs.codes](https://backdropbuild.com/builds/v3/customscodes)** | **Discontinued** RAG-based AI search tool for customs codes. | Rails, PostgreSQL, LLMs |
 | **[xometry.de](https://xometry.de)** | Manufacturing marketplace. Built async intercompany systems & regional apps. | Rails, PostgreSQL, React, GraphQL, RabbitMQ |
 
