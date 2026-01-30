@@ -39,12 +39,13 @@ I love to work & experiment with **LLM orchestration**, **RAG pipelines**, and *
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 Contributions
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lebedevilya&show_icons=true&theme=dracula&hide_border=true" height="160" alt="Ilya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebedevilya&layout=compact&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lebedevilya/lebedevilya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lebedevilya/lebedevilya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lebedevilya/lebedevilya/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
