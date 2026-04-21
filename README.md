@@ -35,6 +35,7 @@ I love to work & experiment with **LLM orchestration**, **RAG pipelines**, and *
 | :--- | :--- | :--- |
 | **[nodes.garden](https://backdropbuild.com/builds/nodesgarden)** | Web3/AI Node-as-a-Service platform. Orchestrated **25k+ nodes** via API. Scaled to 16k+ users. **Backed by Techstars Web3.** | Rails, PostgreSQL, GoodJob, Docker, Fly.io |
 | **[customs.codes](https://backdropbuild.com/builds/v3/customscodes)** | **Discontinued** RAG-based AI search tool for customs codes. | Rails, PostgreSQL, LLMs |
+| **[SupportOS](http://147.135.78.29/)** | Prototype of the agentic customer support system. | Rails, SQLite, Rubyllm, Kamal |
 | **[xometry.de](https://xometry.de)** | Manufacturing marketplace. Built async intercompany systems & regional apps. | Rails, PostgreSQL, React, GraphQL, RabbitMQ |
 
 ---
