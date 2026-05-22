@@ -43,20 +43,6 @@ Senior fullstack/product engineer with 8+ years shipping Rails apps end-to-end. 
 
 ---
 
-### 📊 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lebedevilya&theme=dark&hide_rank=true&show_icons=true&hide_border=true">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lebedevilya&hide_rank=true&show_icons=true&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lebedevilya&layout=compact&theme=dark&hide_border=true">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebedevilya&layout=compact&hide_border=true">
-</picture>
-
----
-
 ### 🧩 Contributions
 
 <picture>
