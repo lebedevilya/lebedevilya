@@ -1,6 +1,6 @@
 # Hi there, I'm Ilya Lebedev 👋
 
-Senior fullstack/product engineer with 8+ years shipping Rails apps end-to-end. Ex-founder (Techstars Web3 '25): built and scaled an infra-heavy platform to 18k+ users and 25k+ deployed nodes. Currently experimenting with LLM orchestration, RAG pipelines, and Web3 infrastructure.
+Senior fullstack/product engineer with 8+ years shipping & scaling SaaS apps. Ex-founder (Techstars Web3 '25): built and scaled an infra-heavy platform to 18k+ users and 25k+ deployed nodes. Solid experience with LLM orchestration, RAG pipelines and Web3 infrastructure.
 
 ---
 
