@@ -1,10 +1,6 @@
 # Hi there, I'm Ilya Lebedev 👋
 
-### Senior Full-Stack Engineer (Ruby on Rails) & Technical Founder
-
-I specialize in building scalable SaaS products with **Ruby on Rails**. With 7+ years of experience, I bridge the gap between complex backend architecture and product-focused engineering.
-
-I love to work & experiment with **LLM orchestration**, **RAG pipelines**, and **Web3 infrastructure**.
+Senior fullstack/product engineer with 8+ years shipping & scaling SaaS apps. Ex-founder (Techstars Web3 '25): built and scaled an infra-heavy platform to 18k+ users and 25k+ deployed nodes; secured an Arbitrum ecosystem grant and shipped Node NFT smart contracts and a marketplace. Solid experience with LLM orchestration, RAG pipelines and Web3 infrastructure.
 
 ---
 
@@ -21,6 +17,12 @@ I love to work & experiment with **LLM orchestration**, **RAG pipelines**, and *
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+**LLM & Web3:**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 **Applied AI & Ops:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -31,13 +33,13 @@ I love to work & experiment with **LLM orchestration**, **RAG pipelines**, and *
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[nodes.garden](https://backdropbuild.com/builds/nodesgarden)** | Web3/AI Node-as-a-Service platform. Orchestrated **25k+ nodes** via API. Scaled to 16k+ users. **Backed by Techstars Web3.** | Rails, PostgreSQL, GoodJob, Docker, Fly.io |
-| **[customs.codes](https://backdropbuild.com/builds/v3/customscodes)** | **Discontinued** RAG-based AI search tool for customs codes. | Rails, PostgreSQL, LLMs |
-| **[SupportOS](https://supportos.ilyalebe.dev/)** | Prototype of the agentic customer support system. | Rails, SQLite, Rubyllm, Kamal |
-| **[slack-llm-bot](https://github.com/lebedevilya/slack-llm-bot)** | Production-shaped Slack bot. OpenAI tool-loop, threaded memory, and an offline eval harness (deterministic oracle + LLM judge) so LLM behaviour is tested like real software. | TypeScript, Vercel, OpenAI, Slack API |
-| **[xometry.de](https://xometry.de)** | Manufacturing marketplace. Built async intercompany systems & regional apps. | Rails, PostgreSQL, React, GraphQL, RabbitMQ |
+| Project | Role | Description | Stack |
+| :--- | :--- | :--- | :--- |
+| **[nodes.garden](https://backdropbuild.com/builds/nodesgarden)** | Co-Founder | Web3/AI Node-as-a-Service platform. Orchestrated **25k+ nodes** via API. Scaled to 18k+ users & 25k+ deployed nodes. **Backed by Techstars Web3.** | Rails, PostgreSQL, GoodJob, Docker, Fly.io |
+| **[SupportOS](https://supportos.ilyalebe.dev/)** | Creator | Prototype of the agentic customer support system. | Rails, SQLite, Rubyllm, Kamal |
+| **[slack-llm-bot](https://github.com/lebedevilya/slack-llm-bot)** | Creator | Production-shaped Slack bot. OpenAI tool-loop, threaded memory, and an offline eval harness (deterministic oracle + LLM judge) so LLM behaviour is tested like real software. | TypeScript, Vercel, OpenAI, Slack API |
+| **[customs.codes](https://backdropbuild.com/builds/v3/customscodes)** | Creator | RAG-based AI search tool for customs codes. *(Discontinued.)* | Rails, PostgreSQL, LLMs |
+| **[xometry.de](https://xometry.de)** | Engineer | Manufacturing marketplace. Built async intercompany systems & regional apps. | Rails, PostgreSQL, React, GraphQL, RabbitMQ |
 
 ---
 
@@ -56,3 +58,5 @@ I love to work & experiment with **LLM orchestration**, **RAG pipelines**, and *
 - **Portfolio:** [ilyalebe.dev](https://ilyalebe.dev)
 - **LinkedIn:** [Ilya Lebedev](https://www.linkedin.com/in/ilya-lebedev-554225102/)
 - **Location:** Remote (US/EU Time Zones), Digital nomad
+
+**Currently open to:** senior fullstack contract work and technical co-founder conversations.
